@@ -1,0 +1,18 @@
+{
+  "name": "Dritons Quelle",
+  "identifier": "com.bellad95.source",
+  "apps": [
+    {
+      "name": "Arbeit",
+      "bundleIdentifier": "com.bellad95.arbeit",
+      "developerName": "Driton Qerimi",
+      "subtitle": "Eigene App über AltStore",
+      "version": "1.0",
+      "versionDate": "2025-11-11",
+      "downloadURL": "https://bellad95.github.io/Arbeit/arbeit.ipa",
+      "localizedDescription": "Erste eigene App über AltStore installiert.",
+      "iconURL": "https://bellad95.github.io/Arbeit/icon.png",
+      "tintColor": "018084"
+    }
+  ]
+}
