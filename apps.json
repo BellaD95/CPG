@@ -1,16 +1,17 @@
 {
-  "name": "Dritons Quelle",
+  "name": "BellaD95 Quelle",
   "identifier": "com.bellad95.source",
   "apps": [
     {
       "name": "Arbeit",
-      "bundleIdentifier": "com.bellad95.arbeit",
+      "bundleIdentifier": "com.bella.arbeit5",
       "developerName": "Driton Qerimi",
       "subtitle": "Eigene App über AltStore",
-      "version": "1.0",
-      "versionDate": "2025-11-11",
+      "version": "2.0",
+      "versionDate": "2025-11-12",
+      "versionDescription": "Initial public build",
       "downloadURL": "https://bellad95.github.io/Arbeit/arbeit.ipa",
-      "localizedDescription": "Erste eigene App über AltStore installiert.",
+      "localizedDescription": "App für CNC-Arbeit und Aufträge",
       "iconURL": "https://bellad95.github.io/Arbeit/icon.png",
       "tintColor": "018084"
     }
