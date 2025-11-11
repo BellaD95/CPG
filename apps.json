@@ -12,7 +12,7 @@
       "versionDescription": "Initial public build",
       "downloadURL": "https://bellad95.github.io/Arbeit/arbeit.ipa",
       "localizedDescription": "App für CNC-Arbeit und Aufträge",
-      "iconURL": "https://bellad95.github.io/Arbeit/icon.png",
+      "iconURL": "https://bellad95.github.io/Arbeit/icon.png", 
       "tintColor": "018084"
     }
   ]
